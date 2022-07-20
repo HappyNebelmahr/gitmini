@@ -2,4 +2,9 @@ Hallo Welt!
 
 dies ist der erste Inhalt!
 JUHUUU!
+<<<<<<< HEAD
 PrOBLEM!
+=======
+
+neuer code
+>>>>>>> 77cb4459126b03dc9b123befd315fe80dea83053
