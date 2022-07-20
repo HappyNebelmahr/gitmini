@@ -4,7 +4,10 @@ dies ist der erste Inhalt!
 JUHUUU!
 <<<<<<< HEAD
 PrOBLEM!
-=======
+======
 
-neuer code
->>>>>>> 77cb4459126b03dc9b123befd315fe80dea83053
+"SO mergen wir dinge"
+>w>>>>>> 77cb4459126b03dc9b123befd315fe80dea83053
+=======
+"pROBLMELFALL!!!!!!
+>>>>>>> 8756351d8ebec01f4630a841f1b8625fb2e7c2ee
